@@ -46,3 +46,18 @@ if (!validation.valid) {
 ## License
 
 MIT
+
+---
+
+## Part of Orkid Labs
+
+**settlement-types** — TypeScript types for cross-chain settlement intents and Hedera settlement targets.
+
+- Install: `npm install @orkid-labs/settlement-types`
+- Package: https://www.npmjs.com/package/@orkid-labs/settlement-types
+- API docs: https://docs.orkidlabs.xyz/packages/settlement-types
+- Docs: https://docs.orkidlabs.xyz/packages/settlement-types
+
+Related Orkid projects: [defi-core](https://github.com/orkid-labs/defi-core), [hedera-utils](https://github.com/orkid-labs/hedera-utils), [@orkid-labs/sdk](https://github.com/orkid-labs/sdk)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)
